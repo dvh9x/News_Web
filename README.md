@@ -1,2 +1,2 @@
-# SamplesWeb
-Samples Web Demo
+# News Web
+News Web Demo
